@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*A single solitary dream can change a million other lives*
+
 Use the left arrow to go back!
